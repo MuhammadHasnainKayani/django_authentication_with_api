@@ -60,8 +60,8 @@ SOCIALACCOUNT_PROVIDERS = {
         'SCOPE': ['profile', 'email'],
         'AUTH_PARAMS': {'access_type': 'online'},
         'APP': {
-            'client_id': '19004320507-qq248q327lh4v22a3ee076rfi7spipbg.apps.googleusercontent.com',
-            'secret': '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',
+            'client_id': 'your id',
+            'secret': 'your secret key',
         }
     }
 }
